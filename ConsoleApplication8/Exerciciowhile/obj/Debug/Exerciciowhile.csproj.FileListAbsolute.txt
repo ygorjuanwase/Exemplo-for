@@ -1,0 +1,6 @@
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exerciciowhile\bin\Debug\Exerciciowhile.exe.config
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exerciciowhile\bin\Debug\Exerciciowhile.exe
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exerciciowhile\bin\Debug\Exerciciowhile.pdb
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exerciciowhile\obj\Debug\Exerciciowhile.exe
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exerciciowhile\obj\Debug\Exerciciowhile.pdb
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exerciciowhile\obj\Debug\Exerciciowhile.csprojResolveAssemblyReference.cache

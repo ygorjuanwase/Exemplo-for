@@ -1,0 +1,6 @@
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ExemploVetor\bin\Debug\ExemploVetor.exe.config
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ExemploVetor\bin\Debug\ExemploVetor.exe
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ExemploVetor\bin\Debug\ExemploVetor.pdb
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ExemploVetor\obj\Debug\ExemploVetor.exe
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ExemploVetor\obj\Debug\ExemploVetor.pdb
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ExemploVetor\obj\Debug\ExemploVetor.csprojResolveAssemblyReference.cache

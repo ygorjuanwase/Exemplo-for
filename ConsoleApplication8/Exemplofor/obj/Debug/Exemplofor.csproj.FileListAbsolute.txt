@@ -1,0 +1,6 @@
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exemplofor\bin\Debug\Exemplofor.exe.config
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exemplofor\bin\Debug\Exemplofor.exe
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exemplofor\bin\Debug\Exemplofor.pdb
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exemplofor\obj\Debug\Exemplofor.csprojResolveAssemblyReference.cache
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exemplofor\obj\Debug\Exemplofor.exe
+C:\Users\104967\Documents\Visual Studio 2013\Projects\ConsoleApplication8\Exemplofor\obj\Debug\Exemplofor.pdb
